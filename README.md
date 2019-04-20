@@ -1,6 +1,6 @@
 # ML-Task
 
-# Sentiment Analysis on Bangalore Hotels reviews.
+# Sentiment Analysis on TripAdvisor reviews.
 Used:
 - TF-IDF Feature Model
 - Naive-Bayes Classifier
